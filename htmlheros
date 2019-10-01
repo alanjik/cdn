@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Heróis BR</title>
+   <meta charset="utf-8">
+    <meta name="viewport" content="width=500, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="https://cdn.statically.io/gh/alanjik/cdn/a9659798/style.css">
+        <link href="https://fonts.googleapis.com/css?family=Lilita+One" rel="stylesheet">
+     
+</head>
+
+<body>
+
+<header>
+
+      <div class="topo">
+			<div id="banner">
+				<div>
+          <h1  class="org00"  >
+					  <img class="bolt09" src="./imgs/SITEWEB4.png" alt="ASSOCIAÇÃO DE HERÓIS">
+        	</h1>
+      </div>
+
+      <nav>
+          <ul>
+						<li><a href="../novodesenvolvimento/TABLE.html">Classes</a></li>
+						<li><a href="#">Ranks</a></li>
+					</ul>
+			</nav>
+
+			<form action=" " method="post">
+  <label for="busca">Buscar Herói:</label>
+  <input type="search" id="busca" name="q">
+  <button type="submit">OK</button>
+		  </form>
+     
+    </div>
+  </div>
+
+		</header>
+
+
+
+		<div class="background" >
+        <div class="hidden-words">
+            <div class="infinite-words">
+                <p>Aqui vocÊ encontra </p>
+                <ul>
+                    <li>Classes</li>
+                    <li>Ranks</li>
+                    <li>Heróis Registrados</li>
+                    <li>Nossa sede</li>
+                    <li>Dados atualizados</li>
+                    <li>Classes</li>
+                </ul>
+        </div>
+        </div>
+    		</div>
+
+<div class="row">
+  <div class="card">
+  <img  class="imgedit"   src="./imgs/sede.jpg" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>Nossa Localização</b></h4>
+    <p>Saiba onde nos encontramos aqui! </p>
+    <a href="#" class="card-link">clique aqui</a>
+  </div>
+</div>
+
+<div class="card">
+  <img class="imgedit" src="./imgs/heros.jpg.png" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>Registro De Heróis</b></h4>
+    <p>Saiba como funciona o registro de heróís.</p>  
+    	<a href="#" class="card-link">clique aqui</a>
+  </div>
+</div>
+
+<div class="card">
+  <img class="imgedit" src="./imgs/logo12.jpg" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>Quem Somos Nós ?</b></h4>
+    <p>Saiba detalhadamente sobre nossa empresa.</p>
+    <a href="#" class="card-link">clique aqui</a>
+  </div>
+</div>
+</div>
+
+<div class="footer" style="background-image: url(imgs/rolovelho2.jpg);">
+  <small>COPYRIGHT © 2019</small>
+</div>
+
+</body>
+</html>
